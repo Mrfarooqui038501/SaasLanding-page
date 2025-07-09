@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "icon": "📊",
+    "title": "Live Insights",
+    "description": "Your KPIs, updated by the second. Monitor your business metrics in real-time with intuitive dashboards.",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 2,
+    "icon": "🤖",
+    "title": "Smart Automation",
+    "description": "Automate repetitive tasks and workflows. Focus on what matters while we handle the routine operations.",
+    "color": "#10b981"
+  },
+  {
+    "id": 3,
+    "icon": "📈",
+    "title": "Growth Analytics",
+    "description": "Track your business growth with advanced analytics. Make informed decisions based on actionable insights.",
+    "color": "#f59e0b"
+  },
+  {
+    "id": 4,
+    "icon": "🔒",
+    "title": "Secure & Reliable",
+    "description": "Enterprise-grade security with 99.9% uptime. Your data is protected with bank-level encryption.",
+    "color": "#ef4444"
+  },
+  {
+    "id": 5,
+    "icon": "🌐",
+    "title": "Multi-Platform",
+    "description": "Access your dashboard from anywhere. Web, mobile, or tablet - your business data follows you.",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 6,
+    "icon": "⚡",
+    "title": "Lightning Fast",
+    "description": "Optimized for speed and performance. Get instant access to your data without any delays.",
+    "color": "#06b6d4"
+  }
+]

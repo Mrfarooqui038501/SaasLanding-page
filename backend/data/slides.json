@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Clarity That Scales",
+    "subtitle": "Dashboards that actually drive growth for your business",
+    "cta": "See It Live",
+    "image": "/images/dashboard.png",
+    "bgColor": "#1a1a2e"
+  },
+  {
+    "id": 2,
+    "title": "Automate Everything",
+    "subtitle": "Turn your manual processes into smart workflows",
+    "cta": "Start Automating",
+    "image": "/images/automation.png",
+    "bgColor": "#0f3460"
+  },
+  {
+    "id": 3,
+    "title": "Real-Time Insights",
+    "subtitle": "Make data-driven decisions with live analytics",
+    "cta": "Get Started",
+    "image": "/images/analytics.png",
+    "bgColor": "#533483"
+  }
+]

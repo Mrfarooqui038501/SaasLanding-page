@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "tier": "Starter",
+    "price": "₹0",
+    "period": "forever",
+    "description": "Perfect for getting started",
+    "features": [
+      "1 Dashboard",
+      "Basic Alerts",
+      "Email Support",
+      "5 Automation Rules",
+      "Basic Analytics"
+    ],
+    "popular": false,
+    "cta": "Get Started"
+  },
+  {
+    "id": 2,
+    "tier": "Professional",
+    "price": "₹999",
+    "period": "per month",
+    "description": "For growing businesses",
+    "features": [
+      "5 Dashboards",
+      "Advanced Alerts",
+      "Priority Support",
+      "50 Automation Rules",
+      "Advanced Analytics",
+      "API Access",
+      "Custom Integrations"
+    ],
+    "popular": true,
+    "cta": "Start Free Trial"
+  },
+  {
+    "id": 3,
+    "tier": "Enterprise",
+    "price": "₹2999",
+    "period": "per month",
+    "description": "For large organizations",
+    "features": [
+      "Unlimited Dashboards",
+      "Real-time Alerts",
+      "24/7 Phone Support",
+      "Unlimited Automation",
+      "Custom Analytics",
+      "Full API Access",
+      "White-label Solution",
+      "Dedicated Account Manager"
+    ],
+    "popular": false,
+    "cta": "Contact Sales"
+  }
+]
